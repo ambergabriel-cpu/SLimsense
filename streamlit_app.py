@@ -4,7 +4,6 @@ st.title("🎈 My new app")
 st.write(
     "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
-None selected 
 
 import numpy as np
 from sklearn.preprocessing import OrdinalEncoder
